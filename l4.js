@@ -5,7 +5,7 @@ console.log(typeof(score));
 
 let valueInNumber = Number(score)
 console.log(typeof valueInNumber);
-// console.log(valueInNumber);
+console.log(valueInNumber);
 
 /*
 1. In Number case its converted easily (score=20)
