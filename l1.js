@@ -1,2 +1,4 @@
 //print statement in js
-console.log("Adarsh kumar");
+let age="18"
+console.log(typeof age);
+console.log(typeof {age});
